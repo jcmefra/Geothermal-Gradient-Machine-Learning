@@ -1,0 +1,32 @@
+# Compiled Python files
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+env/
+*.egg-info/
+.Python
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Data files and directories (specific to your project)
+data/
+results/
+
+# Any sensitive or private information (e.g., API keys)
+secrets/
+
+# Miscellaneous
+*.swp
+.DS_Store
+
+cleaned_data.csv
