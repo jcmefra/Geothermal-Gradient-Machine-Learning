@@ -5,11 +5,12 @@
 1. [About the Project](#about-the-project)
 2. [Methodology](#methodology)
 3. [Getting Started](#getting-started)
-4. [Further Improvements](#further-improvements)
+4. [Conclussions](#conclusion)
+5. [Further Improvements](#further-improvements)
 
 # About the Project
 
-This Project is aimed at predicting geothermal characteristics for Colombia, specifically the geothermal gradient, based on available geological and well data. We employ machine learning techniques to make these predictions. This project focuses on predicting the Apparent Geothermal Gradient (°C/Km) as an essential factor in geothermal exploration.
+This Project is aimed at predicting geothermal characteristics for Colombia, specifically the geothermal gradient, based on available geological and well data. We employ machine learning techniques to make these predictions. This project focuses on predicting the Apparent Geothermal Gradient (°C/Km) as an essential factor in geothermal exploration. The code and the results are in Model.ipynb.
 
 # Methodology:
 
@@ -64,9 +65,13 @@ Before running the project, you'll need to set up your Python environment and in
 
 Now your environment is set up, and you're ready to run the project code.
 
+# Conclusion
+
+This project explores the use of machine learning to predict geothermal gradients in specific regions. By leveraging a Random Forest regression model and carefully engineered features, we've made significant strides in understanding and predicting geothermal properties. While the model shows promise, there's room for further improvement and fine-tuning. We look forward to ongoing enhancements and potential applications in the field of geothermal exploration.
+
 # Further Improvements
 
-In the future, we aim to enhance the project by incorporating additional data sources to improve geothermal potential predictions. This could involve adding more geological data, geochemical indicators, and real-time monitoring data. By expanding the dataset, we can refine our machine learning models for better accuracy in geothermal potential assessment.
+We aim to enhance the project by incorporating additional data sources to improve geothermal potential predictions. This could involve adding more geological data, geochemical indicators, and real-time monitoring data. By expanding the dataset, we can refine our machine learning models for better accuracy in geothermal potential assessment.
 
 Feel free to contribute to the project and help us improve geothermal exploration and energy generation.
 
