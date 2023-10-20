@@ -1,0 +1,133 @@
+alabaster==0.7.13
+asttokens==2.2.1
+attrs==23.1.0
+Babel==2.13.0
+backcall==0.2.0
+backports.functools-lru-cache @ file:///home/conda/feedstock_root/build_artifacts/backports.functools_lru_cache_1687772187254/work
+Bottleneck @ file:///opt/conda/conda-bld/bottleneck_1657175564434/work
+bounded-pool-executor==0.0.3
+branca @ file:///croot/branca_1675157607453/work
+brotlipy==0.7.0
+certifi==2022.12.7
+cffi @ file:///croot/cffi_1670423208954/work
+charset-normalizer==2.1.1
+click @ file:///tmp/build/80754af9/click_1646056706450/work
+click-plugins==1.1.1
+cligj==0.7.2
+cmake==3.25.0
+comm==0.1.4
+contourpy==1.1.0
+cryptography @ file:///croot/cryptography_1689373676338/work
+cycler==0.11.0
+debugpy==1.6.7.post1
+decorator==5.1.1
+docutils==0.18.1
+entrypoints @ file:///home/conda/feedstock_root/build_artifacts/entrypoints_1643888246732/work
+et-xmlfile==1.1.0
+exceptiongroup==1.1.3
+executing==1.2.0
+filelock==3.9.0
+fiona==1.9.5
+Flask @ file:///croot/flask_1671217343254/work
+folium @ file:///croot/folium_1675353398721/work
+fonttools==4.40.0
+geographiclib==2.0
+geopandas==0.14.0
+geopy==2.4.0
+graphviz==0.20.1
+haversine==2.8.0
+idna==3.4
+imagesize==1.4.1
+iniconfig==2.0.0
+ipykernel==6.25.1
+ipython==8.14.0
+itsdangerous @ file:///tmp/build/80754af9/itsdangerous_1621432558163/work
+jedi==0.19.0
+Jinja2==3.1.2
+joblib @ file:///croot/joblib_1685113087166/work
+jupyter_client==8.3.0
+jupyter_core==5.3.1
+kiwisolver==1.4.4
+lit==15.0.7
+MarkupSafe==2.1.2
+matplotlib==3.7.2
+matplotlib-inline==0.1.6
+missingno==0.5.2
+mkl-fft==1.3.6
+mkl-random @ file:///work/mkl/mkl_random_1682950433854/work
+mkl-service==2.4.0
+mpmath==1.3.0
+munkres==1.1.4
+nest-asyncio==1.5.7
+networkx==3.0
+numexpr @ file:///croot/numexpr_1683221822650/work
+numpy==1.25.0
+numpydoc==1.6.0
+opencv-python-headless==4.8.0.74
+openpyxl==3.1.2
+packaging==23.1
+pandas==2.0.3
+parso==0.8.3
+PDPbox==0.3.0
+pexpect==4.8.0
+pickleshare==0.7.5
+Pillow==10.0.0
+platformdirs==3.10.0
+plotly==5.17.0
+pluggy==1.3.0
+ply==3.11
+pqdm==0.2.0
+prompt-toolkit==3.0.39
+psutil==5.9.5
+ptyprocess==0.7.0
+pure-eval==0.2.2
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pydotplus==2.0.2
+Pygments==2.16.1
+pyOpenSSL @ file:///croot/pyopenssl_1690223430423/work
+pyparsing @ file:///opt/conda/conda-bld/pyparsing_1661452539315/work
+pyproj==3.6.1
+PyQt5-Qt5==5.15.2
+PyQt5-sip==12.12.1
+PySocks @ file:///home/builder/ci_310/pysocks_1640793678128/work
+pytest==7.4.2
+python-dateutil==2.8.2
+pytz==2023.3
+pyzmq==25.1.1
+requests==2.28.1
+scikit-learn @ file:///croot/scikit-learn_1690978916802/work
+scipy @ file:///croot/scipy_1691606680890/work/dist/scipy-1.11.1-cp310-cp310-linux_x86_64.whl#sha256=3616caa5917138103c8ea6bb1735ea02594873648112aac0b79b36e069d40223
+seaborn==0.13.0
+shapely==2.0.2
+sip @ file:///tmp/abs_44cd77b_pu/croots/recipe/sip_1659012365470/work
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+snowballstemmer==2.2.0
+Sphinx==7.2.6
+sphinx-rtd-theme==1.3.0
+sphinxcontrib-applehelp==1.0.7
+sphinxcontrib-devhelp==1.0.5
+sphinxcontrib-htmlhelp==2.0.4
+sphinxcontrib-jquery==4.1
+sphinxcontrib-jsmath==1.0.1
+sphinxcontrib-qthelp==1.0.6
+sphinxcontrib-serializinghtml==1.1.9
+stack-data==0.6.2
+sympy==1.12
+tabulate==0.9.0
+tenacity==8.2.3
+threadpoolctl @ file:///Users/ktietz/demo/mc3/conda-bld/threadpoolctl_1629802263681/work
+toml @ file:///tmp/build/80754af9/toml_1616166611790/work
+tomli==2.0.1
+torch==2.0.1+cu118
+torchaudio==2.0.2+cu118
+torchvision==0.15.2+cu118
+tornado==6.3.3
+tqdm==4.66.1
+traitlets==5.9.0
+triton==2.0.0
+typing_extensions==4.4.0
+tzdata==2023.3
+urllib3==1.26.13
+wcwidth==0.2.6
+Werkzeug @ file:///croot/werkzeug_1679489717957/work
+xgboost==1.7.6
