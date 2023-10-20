@@ -69,3 +69,9 @@ Now your environment is set up, and you're ready to run the project code.
 In the future, we aim to enhance the project by incorporating additional data sources to improve geothermal potential predictions. This could involve adding more geological data, geochemical indicators, and real-time monitoring data. By expanding the dataset, we can refine our machine learning models for better accuracy in geothermal potential assessment.
 
 Feel free to contribute to the project and help us improve geothermal exploration and energy generation.
+
+## Credits:
+
+   1. South American Moho dataset: Uieda, L., & Barbosa, V. C. (2017). Fast nonlinear gravity inversion in spherical coordinates with application to the South American Moho. Geophysical Journal International, 208(1), 162-176.
+   2. Geothermal Gradients dataset: Alfaro, C., Alvarado, I., Quintero, W., Hamza, V., Vargas, C., & Briceño, L. (2009). Mapa preliminar de gradientes geotérmicos de Colombia. Proyecto Mapa Geotérmico de Colombia, 34.
+   3. Volcanos dataset: Gómez-Tapias, J., Montes-Ramírez, N., Nivia, A., & Diederix, H. (2015). Mapa geológico de Colombia. Escala, 1:1.000.000.
