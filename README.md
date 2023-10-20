@@ -5,8 +5,7 @@
 1. [About the Project](#about-the-project)
 2. [Methodology](#methodology)
 3. [Getting Started](#getting-started)
-4. [Installation](#installation)
-5. [Further Improvements](#further-improvements)
+4. [Further Improvements](#further-improvements)
 
 # About the Project
 
@@ -43,8 +42,6 @@ We analyze feature importance, visualize results, and create various plots and g
 # Getting Started
 
 Before running the project, you'll need to set up your Python environment and install the required dependencies. Here are the steps to get started:
-
-# Installation
 
 1. Create a Conda environment (if not already created):
    
