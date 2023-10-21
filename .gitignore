@@ -30,3 +30,4 @@ secrets/
 .DS_Store
 
 cleaned_data.csv
+cleaned_data_normalized.csv

@@ -71,7 +71,7 @@ This project explores the use of machine learning to predict geothermal gradient
 
 # Further Improvements
 
-We aim to enhance the project by incorporating additional data sources to improve geothermal potential predictions. This could involve adding more geological data, geochemical indicators, and real-time monitoring data. By expanding the dataset, we can refine our machine learning models for better accuracy in geothermal potential assessment.
+We aim to enhance the project by incorporating additional data sources to improve geothermal potential predictions. This could involve adding more geological data from wells or stratigraphic columns, structural data such as faults, permeability and porosity data, geochemical indicators, and real-time monitoring data. By expanding the dataset, we can refine our machine learning models for better accuracy in geothermal potential assessment.
 
 Feel free to contribute to the project and help us improve geothermal exploration and energy generation.
 
