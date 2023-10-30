@@ -14,7 +14,7 @@ This Project is aimed at predicting geothermal characteristics for Colombia, spe
 
 # Methodology:
 
-The project utilizes geospatial data, including well locations, geological information, and geothermal measurements. These datasets are located in the `data` folder of this repository. The data includes information on well depths, temperatures, geological features, and proximity to volcanic structures.
+The project utilizes geospatial data, geophysical information, and geothermal measurements. These datasets are located in the `data` folder of this repository. The data includes information on well depths, temperatures, geological features, and proximity to volcanic structures.
 
 ## ETL (Extract, Transform, Load)
 
@@ -75,8 +75,9 @@ We aim to enhance the project by incorporating additional data sources to improv
 
 Feel free to contribute to the project and help us improve geothermal exploration and energy generation.
 
-## Credits:
+## Sources:
 
    1. South American Moho dataset: Uieda, L., & Barbosa, V. C. (2017). Fast nonlinear gravity inversion in spherical coordinates with application to the South American Moho. Geophysical Journal International, 208(1), 162-176.
    2. Geothermal Gradients dataset: Alfaro, C., Alvarado, I., Quintero, W., Hamza, V., Vargas, C., & Briceño, L. (2009). Mapa preliminar de gradientes geotérmicos de Colombia. Proyecto Mapa Geotérmico de Colombia, 34.
    3. Volcanos dataset: Gómez-Tapias, J., Montes-Ramírez, N., Nivia, A., & Diederix, H. (2015). Mapa geológico de Colombia. Escala, 1:1.000.000.
+   4. LAB depth dataset: Afonso, J. C., Salajegheh, F., Szwillus, W., Ebbing, J., & Gaina, C. (2019). A global reference model of the lithosphere and upper mantle from joint inversion and analysis of multiple data sets. Geophysical Journal International, 217(3), 1602-1628.
