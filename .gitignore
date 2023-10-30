@@ -18,10 +18,6 @@ env/
 # Logs
 *.log
 
-# Data files and directories (specific to your project)
-data/
-results/
-
 # Any sensitive or private information (e.g., API keys)
 secrets/
 
