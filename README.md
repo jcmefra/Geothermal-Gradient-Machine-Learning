@@ -69,6 +69,8 @@ Now your environment is set up, and you're ready to run the project code.
 
 This project explores the use of machine learning to predict geothermal gradients in specific regions. By leveraging a Random Forest regression model and carefully engineered features, we've made significant strides in understanding and predicting geothermal properties. While the model shows promise, there's room for further improvement and fine-tuning. We look forward to ongoing enhancements and potential applications in the field of geothermal exploration.
 
+![image](https://github.com/jcmefra/Geothermal-Gradient-Machine-Learning/assets/64992303/cebe8491-d6aa-4a20-b0ce-7f490dbe7e52)
+
 # Further Improvements
 
 We aim to enhance the project by incorporating additional data sources to improve geothermal potential predictions. This could involve adding more geological data from wells or stratigraphic columns, structural data such as faults, permeability and porosity data, geochemical indicators, and real-time monitoring data. By expanding the dataset, we can refine our machine learning models for better accuracy in geothermal potential assessment.
