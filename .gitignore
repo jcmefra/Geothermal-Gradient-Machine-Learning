@@ -29,3 +29,9 @@ cleaned_data.csv
 cleaned_data_normalized.csv
 normalized_data_minmax.csv
 predicted_dataset.csv
+cities.csv
+full_prediction_points.csv
+predicted_new.csv
+normalized_full_prediction.csv
+cleaned_data_beforeoutliers.csv
+points_withoutoutliers.csv
