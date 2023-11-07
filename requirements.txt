@@ -7,3 +7,8 @@ seaborn
 shapely
 scikit-learn
 tqdm
+rasterio
+xgboost
+pyproj
+math
+openpyxl
