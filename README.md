@@ -10,7 +10,7 @@
 
 # About the Project
 
-This Project is aimed at predicting geothermal characteristics for Colombia, specifically the geothermal gradient, based on available geological and well data. We employ machine learning techniques to make these predictions. This project focuses on predicting the Apparent Geothermal Gradient (°C/Km) as an essential factor in geothermal exploration. The code and the results are in Model.ipynb.
+This Project is aimed at predicting geothermal characteristics for Colombia, specifically the geothermal gradient, based on available geological and geophysical data. We employ machine learning techniques to make these predictions. This project focuses on predicting the Apparent Geothermal Gradient (°C/Km) as an essential factor in geothermal exploration. The code and the results are in Model.ipynb.
 
 # Methodology:
 
@@ -30,15 +30,27 @@ Data cleaning involves removing irrelevant or incomplete records and columns to 
 
 ## Machine Learning
 
-We use a RandomForestRegressor to train a machine learning model that predicts apparent geothermal gradients based on the chosen features. The model's hyperparameters are tuned for optimal performance.
+We use a XGBoost Regressor to train a machine learning model that predicts apparent geothermal gradients based on the chosen features. The model's hyperparameters are tuned for optimal performance.
+
+![image](https://github.com/jcmefra/Geothermal-Gradient-Machine-Learning/assets/64992303/8c9d3ce1-98bf-43d3-aada-2a22933c9db8)
 
 ## Evaluation
 
 We evaluate the model's performance using standard regression metrics like Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), and R-squared (R2), providing insight into its predictive accuracy.
 
+![image](https://github.com/jcmefra/Geothermal-Gradient-Machine-Learning/assets/64992303/d86bff7f-96c5-40c7-9868-aa405348ce19)
+
 ## Interpretation
 
 We analyze feature importance, visualize results, and create various plots and graphs to understand the relationship between features and the target variable, facilitating the model's interpretation.
+
+![image](https://github.com/jcmefra/Geothermal-Gradient-Machine-Learning/assets/64992303/60d88998-3962-4f92-a658-6ba8d7c4dd6a)
+
+## Prediction of new data
+
+We generate a new dataset of 8000 points across the country to predict the geothermal gradient for areas where there are no available data.
+
+![image](https://github.com/jcmefra/Geothermal-Gradient-Machine-Learning/assets/64992303/6c6d476c-da05-4244-8563-d72f3d1e61f6)
 
 # Getting Started
 
@@ -58,7 +70,6 @@ Before running the project, you'll need to set up your Python environment and in
 
    conda install pip
 
-
 4. Install the required Python packages using the provided `requirements.txt` file:
 
    pip install -r requirements.txt
@@ -68,8 +79,6 @@ Now your environment is set up, and you're ready to run the project code.
 # Conclusion
 
 This project explores the use of machine learning to predict geothermal gradients in specific regions. By leveraging a XGBoost regression model and carefully engineered features, we've made significant strides in understanding and predicting geothermal properties. While the model shows promise, there's room for further improvement and fine-tuning. We look forward to ongoing enhancements and potential applications in the field of geothermal exploration.
-
-![image](https://github.com/jcmefra/Geothermal-Gradient-Machine-Learning/assets/64992303/cebe8491-d6aa-4a20-b0ce-7f490dbe7e52)
 
 # Further Improvements
 
