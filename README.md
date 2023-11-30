@@ -28,29 +28,39 @@ In this phase, we create new relevant features, such as computing distances to v
 
 Data cleaning involves removing irrelevant or incomplete records and columns to obtain a clean and structured dataset for machine learning.
 
+![image](https://github.com/jcmefra/Geothermal-Gradient-Machine-Learning/assets/64992303/274d04e3-a2b8-4d6f-a39c-47c593e29a45)
+
 ## Machine Learning
 
 We use a XGBoost Regressor to train a machine learning model that predicts apparent geothermal gradients based on the chosen features. The model's hyperparameters are tuned for optimal performance.
 
-![image](https://github.com/jcmefra/Geothermal-Gradient-Machine-Learning/assets/64992303/8c9d3ce1-98bf-43d3-aada-2a22933c9db8)
+## Feature importance
+
+![image](https://github.com/jcmefra/Geothermal-Gradient-Machine-Learning/assets/64992303/8a19bc7e-5532-4d33-8d14-befba4544951)
+![image](https://github.com/jcmefra/Geothermal-Gradient-Machine-Learning/assets/64992303/3b5bb38a-e788-45f9-9f5a-f0f72b50e25a)
+![image](https://github.com/jcmefra/Geothermal-Gradient-Machine-Learning/assets/64992303/354cdb39-3c31-42ce-a445-6e7e4d6905fc)
+![image](https://github.com/jcmefra/Geothermal-Gradient-Machine-Learning/assets/64992303/c7b1dfcd-4b06-478f-83f2-36485858a3de)
 
 ## Evaluation
 
 We evaluate the model's performance using standard regression metrics like Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), and R-squared (R2), providing insight into its predictive accuracy.
 
-![image](https://github.com/jcmefra/Geothermal-Gradient-Machine-Learning/assets/64992303/d86bff7f-96c5-40c7-9868-aa405348ce19)
+![image](https://github.com/jcmefra/Geothermal-Gradient-Machine-Learning/assets/64992303/68304b9c-8869-45bb-abfc-f40b16540270)
+![image](https://github.com/jcmefra/Geothermal-Gradient-Machine-Learning/assets/64992303/1bd1613f-0b01-4304-9992-aa570c533444)
+
 
 ## Interpretation
 
 We analyze feature importance, visualize results, and create various plots and graphs to understand the relationship between features and the target variable, facilitating the model's interpretation.
 
-![image](https://github.com/jcmefra/Geothermal-Gradient-Machine-Learning/assets/64992303/60d88998-3962-4f92-a658-6ba8d7c4dd6a)
+![image](https://github.com/jcmefra/Geothermal-Gradient-Machine-Learning/assets/64992303/7b94e518-1c60-4c3e-b01a-96b242dd9eb7)
 
-## Prediction of new data
+### Prediction of new data
 
 We generate a new dataset of 8000 points across the country to predict the geothermal gradient for areas where there are no available data.
 
-![image](https://github.com/jcmefra/Geothermal-Gradient-Machine-Learning/assets/64992303/6c6d476c-da05-4244-8563-d72f3d1e61f6)
+![image](https://github.com/jcmefra/Geothermal-Gradient-Machine-Learning/assets/64992303/a5974b9e-8207-41fc-8fdd-7bd79981bd3e)
+![image](https://github.com/jcmefra/Geothermal-Gradient-Machine-Learning/assets/64992303/15cb0898-f2be-47a9-a1a3-9b480e81d6e8)
 
 # Getting Started
 
@@ -76,20 +86,25 @@ Before running the project, you'll need to set up your Python environment and in
 
 Now your environment is set up, and you're ready to run the project code.
 
-# Conclusion
+# Conclusions
 
-This project explores the use of machine learning to predict geothermal gradients in specific regions. By leveraging a XGBoost regression model and carefully engineered features, we've made significant strides in understanding and predicting geothermal properties. While the model shows promise, there's room for further improvement and fine-tuning. We look forward to ongoing enhancements and potential applications in the field of geothermal exploration.
+The project explores the use of Machine Learning to predict the geothermal gradient in areas where wells do not exist and are difficult to access.
+A favorable result was obtained, with a mean absolute error of 2.85°C/Km.
+The major source of dispersion and error is found in the extreme values (high, mainly), which corresponds to the minority in the training data.
+It is suggested that, with a larger amount of high geothermal gradient data (greater than 45°C/km), the model will have a much higher accuracy.
 
 # Further Improvements
 
-We aim to enhance the project by incorporating additional data sources to improve geothermal potential predictions. This could involve adding more geological data from wells or stratigraphic columns, structural data such as faults, permeability and porosity data, geochemical indicators, and real-time monitoring data. By expanding the dataset, we can refine our machine learning models for better accuracy in geothermal potential assessment.
+We aim to refine our machine learning models for better accuracy in geothermal potential assessment, improving the resolution and the quality of the datasets, do further variable analysis to reduce overfitting and replace features for more significant ones if possible.
 
 Feel free to contribute to the project and help us improve geothermal exploration and energy generation.
 
 ## Sources:
 
-   1. South American Moho dataset: Uieda, L., & Barbosa, V. C. (2017). Fast nonlinear gravity inversion in spherical coordinates with application to the South American Moho. Geophysical Journal International, 208(1), 162-176.
-   2. Geothermal Gradients dataset: Alfaro, C., Alvarado, I., Quintero, W., Hamza, V., Vargas, C., & Briceño, L. (2009). Mapa preliminar de gradientes geotérmicos de Colombia. Proyecto Mapa Geotérmico de Colombia, 34.
-   3. Volcanos dataset: Gómez-Tapias, J., Montes-Ramírez, N., Nivia, A., & Diederix, H. (2015). Mapa geológico de Colombia. Escala, 1:1.000.000.
-   4. LAB depth dataset: Afonso, J. C., Salajegheh, F., Szwillus, W., Ebbing, J., & Gaina, C. (2019). A global reference model of the lithosphere and upper mantle from joint inversion and analysis of multiple data sets. Geophysical Journal International, 217(3), 1602-1628.
-   5. Magnetic data: Lesur, V., Hamoudi, M., Choi, Y., Dyment, J., & Thébault, E. (2016). Building the second version of the world digital magnetic anomaly map (WDMAM). Earth, Planets and Space, 68, 1-13.
+Uieda, L., & Barbosa, V. C. (2017). Fast nonlinear gravity inversion in spherical coordinates with application to the South American Moho. Geophysical Journal International, 208(1), 162-176.
+Alfaro, C., Alvarado, I., Quintero, W., Hamza, V., Vargas, C., & Briceño, L. (2009). Mapa preliminar de gradientes geotérmicos de Colombia. Proyecto Mapa Geotérmico de Colombia, 34.
+Gómez-Tapias, J., Montes-Ramírez, N., Nivia, A., & Diederix, H. (2015). Mapa geológico de Colombia. Escala, 1:1.000.000.
+Afonso, J. C., Salajegheh, F., Szwillus, W., Ebbing, J., & Gaina, C. (2019). A global reference model of the lithosphere and upper mantle from joint inversion and analysis of multiple data sets. Geophysical Journal International, 217(3), 1602-1628.
+Maus, S., Barckhausen, U., Berkenbosch, H., Bournas, N., Brozena, J., Childers, V., ... & Caratori Tontini, F. (2009). EMAG2: A 2–arc min resolution Earth Magnetic Anomaly Grid compiled from satellite, airborne, and marine magnetic measurements. Geochemistry, Geophysics, Geosystems, 10(8).
+Gómez, J. & Montes, N.E., compiladores. 2020. Atlas Geológico de Colombia 2020. Escala 1:500 000. Servicio Geológico Colombiano, 26 hojas. Bogotá.​​
+Veloza, G., Styron, R., Taylor, M., Mora, A., 2012, Active Tectonics of the Andes: An open-source archive for active faults in northwestern South America, GSA Today, vol. 22, no. 10, p. 4-10, doi: 10.1130/GSAT-G156A.1.
