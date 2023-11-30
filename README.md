@@ -92,3 +92,4 @@ Feel free to contribute to the project and help us improve geothermal exploratio
    2. Geothermal Gradients dataset: Alfaro, C., Alvarado, I., Quintero, W., Hamza, V., Vargas, C., & Briceño, L. (2009). Mapa preliminar de gradientes geotérmicos de Colombia. Proyecto Mapa Geotérmico de Colombia, 34.
    3. Volcanos dataset: Gómez-Tapias, J., Montes-Ramírez, N., Nivia, A., & Diederix, H. (2015). Mapa geológico de Colombia. Escala, 1:1.000.000.
    4. LAB depth dataset: Afonso, J. C., Salajegheh, F., Szwillus, W., Ebbing, J., & Gaina, C. (2019). A global reference model of the lithosphere and upper mantle from joint inversion and analysis of multiple data sets. Geophysical Journal International, 217(3), 1602-1628.
+   5. Magnetic data: Lesur, V., Hamoudi, M., Choi, Y., Dyment, J., & Thébault, E. (2016). Building the second version of the world digital magnetic anomaly map (WDMAM). Earth, Planets and Space, 68, 1-13.
