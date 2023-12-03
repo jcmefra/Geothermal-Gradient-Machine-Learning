@@ -89,6 +89,9 @@ Uieda, L., & Barbosa, V. C. (2017). Fast nonlinear gravity inversion in spherica
 Alfaro, C., Alvarado, I., Quintero, W., Hamza, V., Vargas, C., & Briceño, L. (2009). Mapa preliminar de gradientes geotérmicos de Colombia. Proyecto Mapa Geotérmico de Colombia, 34.
 Gómez-Tapias, J., Montes-Ramírez, N., Nivia, A., & Diederix, H. (2015). Mapa geológico de Colombia. Escala, 1:1.000.000.
 Afonso, J. C., Salajegheh, F., Szwillus, W., Ebbing, J., & Gaina, C. (2019). A global reference model of the lithosphere and upper mantle from joint inversion and analysis of multiple data sets. Geophysical Journal International, 217(3), 1602-1628.
-Maus, S., Barckhausen, U., Berkenbosch, H., Bournas, N., Brozena, J., Childers, V., ... & Caratori Tontini, F. (2009). EMAG2: A 2–arc min resolution Earth Magnetic Anomaly Grid compiled from satellite, airborne, and marine magnetic measurements. Geochemistry, Geophysics, Geosystems, 10(8).
+Lesur, V., Hamoudi, M., Choi, Y., Dyment, J., & Thébault, E. (2016). Building the second version of the world digital magnetic anomaly map (WDMAM). Earth, Planets and Space, 68, 1-13.
 Gómez, J. & Montes, N.E., compiladores. 2020. Atlas Geológico de Colombia 2020. Escala 1:500 000. Servicio Geológico Colombiano, 26 hojas. Bogotá.​​
 Veloza, G., Styron, R., Taylor, M., Mora, A., 2012, Active Tectonics of the Andes: An open-source archive for active faults in northwestern South America, GSA Today, vol. 22, no. 10, p. 4-10, doi: 10.1130/GSAT-G156A.1.
+NASA Visible Earth. (2021). Topography. Retrieved from https://visibleearth.nasa.gov/images/73934/topography
+​Gómez, J. & Montes, N.E., compiladores. 2020. Mapa Geológico de Colombia en Relieve 2020. Escala 1:1 000 000. Servicio Geológico Colombiano, 2 hojas. Bogotá
+Veloza, G., Styron, R., Taylor, M., & Mora, A. (2012). Open-source archive of active faults for northwest South America. Gsa Today, 22(10), 4-10.
