@@ -45,3 +45,9 @@ gradients_no_mag.csv
 Mapa_V2.qgz
 cleaned_faults.csv
 map_predicted.qgz
+data/colombia_gravity_map.nc
+data/s_velocity_depth.csv
+data/Vs_depth.xlsx
+data/colombia_FAA.nc.aux.xml
+data/colombia_FAA.nc
+data/WorldDEM.tif.aux.xml
