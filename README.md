@@ -88,12 +88,12 @@ Feel free to contribute to the project and help us improve geothermal exploratio
 - Uieda, L., & Barbosa, V. C. (2017). Fast nonlinear gravity inversion in spherical coordinates with application to the South American Moho. Geophysical Journal International, 208(1), 162-176.
 - Alfaro, C., Alvarado, I., Quintero, W., Hamza, V., Vargas, C., & Briceño, L. (2009). Mapa preliminar de gradientes geotérmicos de Colombia. Proyecto Mapa Geotérmico de Colombia, 34.
 - Gómez-Tapias, J., Montes-Ramírez, N., Nivia, A., & Diederix, H. (2015). Mapa geológico de Colombia. Escala, 1:1.000.000.
-- Choi, Y., Dyment, J., Lesur, V., Garcia Reyes, Catalan, M., Ishihara, T., Litvinova, T., Hamoudi, M., the WDMAM Task Force*, and the WDMAM Data Providers**, World Digital Magnetic Anomaly Map version 2.1, map available at https://www.wdmam.org/.
+- Dyment, J., Choi, Y., Lesur, V., Garcia-Reyes, A., Catalan, M., Ishihara, T., ... & Hamoudi, M. (2020, May). The World Digital Magnetic Anomaly Map: version 2.1. In EGU General Assembly Conference Abstracts (p. 22098).
 - Gómez, J. & Montes, N.E., compiladores. 2020. Atlas Geológico de Colombia 2020. Escala 1:500 000. Servicio Geológico Colombiano, 26 hojas. Bogotá.​​
 - Veloza, G., Styron, R., Taylor, M., Mora, A., 2012, Active Tectonics of the Andes: An open-source archive for active faults in northwestern South America, GSA Today, vol. 22, no. 10, p. 4-10, doi: 10.1130/GSAT-G156A.1.
 - NASA Visible Earth. (2021). Topography. Retrieved from https://visibleearth.nasa.gov/images/73934/topography
 - Gómez, J. & Montes, N.E., compiladores. 2020. Mapa Geológico de Colombia en Relieve 2020. Escala 1:1 000 000. Servicio Geológico Colombiano, 2 hojas. Bogotá.
 - Veloza, G., Styron, R., Taylor, M., & Mora, A. (2012). Open-source archive of active faults for northwest South America. Gsa Today, 22(10), 4-10.
-- Sandwell, D.T., Harper, H., Tozer, B. and Smith, W.H., 2019: [https://doi.org/10.1016/j.asr.2019.09.011].
-- Pavlis, N.K., Holmes, S.A., Kenyon, S.C. and Factor, J.K., 2012: [https://doi.org/10.1029/2011JB008916].
-
+- Sandwell, D. T., Harper, H., Tozer, B., & Smith, W. H. (2021). Gravity field recovery from geodetic altimeter missions. Advances in Space Research, 68(2), 1059-1072.
+- Pavlis, N. K., Holmes, S. A., Kenyon, S. C., & Factor, J. K. (2012). The development and evaluation of the Earth Gravitational Model 2008 (EGM2008). Journal of geophysical research: solid earth, 117(B4).
+- Camacho et al. (2014). MAPA DE PROFUNDIDAD A LA ISOTERMA DE CURIE PARA COLOMBIA 1:3250000. Servicio Geológico Colombiano. Bogotá.
