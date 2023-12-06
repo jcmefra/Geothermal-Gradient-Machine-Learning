@@ -25,12 +25,3 @@ secrets/
 *.swp
 .DS_Store
 
-cleaned_data_normalized.csv
-cities.csv
-cleaned_data_beforeoutliers.csv
-points_withoutoutliers.csv
-gradients_no_mag.csv
-cleaned_faults.csv
-gradients_no_mag.csv
-cleaned_faults.csv
-map_predicted.qgz
