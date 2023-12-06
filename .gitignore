@@ -25,29 +25,12 @@ secrets/
 *.swp
 .DS_Store
 
-cleaned_data.csv
 cleaned_data_normalized.csv
-normalized_data_minmax.csv
-predicted_dataset.csv
 cities.csv
-full_prediction_points.csv
-predicted_new.csv
-normalized_full_prediction.csv
 cleaned_data_beforeoutliers.csv
 points_withoutoutliers.csv
-points.csv
-trained_model.pkl
-data/~$Anexo 1. GRADIENTES GEOTÉRMICOS APARENTES.xlsx
 gradients_no_mag.csv
-Mapa_V2.qgz
 cleaned_faults.csv
 gradients_no_mag.csv
-Mapa_V2.qgz
 cleaned_faults.csv
 map_predicted.qgz
-data/colombia_gravity_map.nc
-data/s_velocity_depth.csv
-data/Vs_depth.xlsx
-data/colombia_FAA.nc.aux.xml
-data/colombia_FAA.nc
-data/WorldDEM.tif.aux.xml
