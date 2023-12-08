@@ -97,3 +97,4 @@ Feel free to contribute to the project and help us improve geothermal exploratio
 - Sandwell, D. T., Harper, H., Tozer, B., & Smith, W. H. (2021). Gravity field recovery from geodetic altimeter missions. Advances in Space Research, 68(2), 1059-1072.
 - Pavlis, N. K., Holmes, S. A., Kenyon, S. C., & Factor, J. K. (2012). The development and evaluation of the Earth Gravitational Model 2008 (EGM2008). Journal of geophysical research: solid earth, 117(B4).
 - Camacho et al. (2014). MAPA DE PROFUNDIDAD A LA ISOTERMA DE CURIE PARA COLOMBIA 1:3250000. Servicio Geológico Colombiano. Bogotá.
+- Tozer, B., Sandwell, D. T., Smith, W. H., Olson, C., Beale, J. R., & Wessel, P. (2019). Global bathymetry and topography at 15 arc sec: SRTM15+. Earth and Space Science, 6(10), 1847-1864.
