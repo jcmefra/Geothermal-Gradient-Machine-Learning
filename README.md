@@ -98,3 +98,4 @@ Feel free to contribute to the project and help us improve geothermal exploratio
 - Pavlis, N. K., Holmes, S. A., Kenyon, S. C., & Factor, J. K. (2012). The development and evaluation of the Earth Gravitational Model 2008 (EGM2008). Journal of geophysical research: solid earth, 117(B4).
 - Camacho et al. (2014). MAPA DE PROFUNDIDAD A LA ISOTERMA DE CURIE PARA COLOMBIA 1:3250000. Servicio Geológico Colombiano. Bogotá.
 - Tozer, B., Sandwell, D. T., Smith, W. H., Olson, C., Beale, J. R., & Wessel, P. (2019). Global bathymetry and topography at 15 arc sec: SRTM15+. Earth and Space Science, 6(10), 1847-1864.
+- Gómez, J., Montes, N.E., Nivia, A. & Diederix, H., compiladores. 2015. Mapa Geológico de Colombia 2015. Escala 1:1 000 000. Servicio Geológico Colombiano, 2 hojas. Bogotá. https://doi.org/10.32685/10.143.2015.935​
