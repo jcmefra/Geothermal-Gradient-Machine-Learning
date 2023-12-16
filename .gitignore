@@ -37,8 +37,6 @@ map_predicted.qgz
 Mapa_V2.qgz
 Mapa_Basamento.qgz
 points_withoutoutliers.csv
-points.csv
-predicted_dataset.csv
 cleaned_data_beforeoutliers.csv
 cleaned_data.csv
 cleaned_faults.csv
