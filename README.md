@@ -44,7 +44,7 @@ We analyze feature importance, visualize results, and create various plots and g
 
 We generate a new dataset of 8000 points across the country to predict the geothermal gradient for areas where there are no available data.
 
-![Mapa_V5](https://github.com/jcmefra/Geothermal-Gradient-Machine-Learning/assets/64992303/de46bbb4-9ed5-4678-a144-bde6b54d5d00)
+![Mapa_Final](https://github.com/jcmefra/Geothermal-Gradient-Machine-Learning/assets/64992303/80fe424c-1cd5-41b0-a0bc-532fd71253ac)
 
 # Getting Started
 
