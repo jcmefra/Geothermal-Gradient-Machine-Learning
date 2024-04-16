@@ -46,36 +46,12 @@ We generate a new dataset of 8000 points across the country to predict the geoth
 
 ![Mapa_Final](https://github.com/jcmefra/Geothermal-Gradient-Machine-Learning/assets/64992303/80fe424c-1cd5-41b0-a0bc-532fd71253ac)
 
-# Getting Started
-
-Before running the project, you'll need to set up your Python environment and install the required dependencies. Here are the steps to get started:
-
-1. Create a Conda environment (if not already created):
-   
-   conda create --name geothermal-predict python=3.7
-
-
-2. Activate the Conda environment:
-
-   conda activate geothermal-predict
-
-
-3. Install pip within the Conda environment:
-
-   conda install pip
-
-4. Install the required Python packages using the provided `requirements.txt` file:
-
-   pip install -r requirements.txt
-
-Now your environment is set up, and you're ready to run the project code.
-
 # Conclusions
 
 The project explores the use of Machine Learning to predict the geothermal gradient in areas where wells do not exist and are difficult to access.
-A favorable result was obtained, with a mean absolute error of 2.85°C/Km.
+A favorable result was obtained, with an MAE of 2.68, an RMSE of 3.58, and an R-squared value of 0.55.
 The major source of dispersion and error is found in the extreme values (high, mainly), which corresponds to the minority in the training data.
-It is suggested that, with a larger amount of high geothermal gradient data (greater than 45°C/km), the model will have a much higher accuracy.
+It is suggested that, with a larger amount of high geothermal gradient data, the model will have a much higher accuracy.
 
 # Further Improvements
 
@@ -83,19 +59,6 @@ We aim to refine our machine learning models for better accuracy in geothermal p
 
 Feel free to contribute to the project and help us improve geothermal exploration and energy generation.
 
-## Sources:
+## Full manuscript: 
 
-- Uieda, L., & Barbosa, V. C. (2017). Fast nonlinear gravity inversion in spherical coordinates with application to the South American Moho. Geophysical Journal International, 208(1), 162-176.
-- Alfaro, C., Alvarado, I., Quintero, W., Hamza, V., Vargas, C., & Briceño, L. (2009). Mapa preliminar de gradientes geotérmicos de Colombia. Proyecto Mapa Geotérmico de Colombia, 34.
-- Gómez-Tapias, J., Montes-Ramírez, N., Nivia, A., & Diederix, H. (2015). Mapa geológico de Colombia. Escala, 1:1.000.000.
-- Dyment, J., Choi, Y., Lesur, V., Garcia-Reyes, A., Catalan, M., Ishihara, T., ... & Hamoudi, M. (2020, May). The World Digital Magnetic Anomaly Map: version 2.1. In EGU General Assembly Conference Abstracts (p. 22098).
-- Gómez, J. & Montes, N.E., compiladores. 2020. Atlas Geológico de Colombia 2020. Escala 1:500 000. Servicio Geológico Colombiano, 26 hojas. Bogotá.​​
-- Veloza, G., Styron, R., Taylor, M., Mora, A., 2012, Active Tectonics of the Andes: An open-source archive for active faults in northwestern South America, GSA Today, vol. 22, no. 10, p. 4-10, doi: 10.1130/GSAT-G156A.1.
-- NASA Visible Earth. (2021). Topography. Retrieved from https://visibleearth.nasa.gov/images/73934/topography
-- Gómez, J. & Montes, N.E., compiladores. 2020. Mapa Geológico de Colombia en Relieve 2020. Escala 1:1 000 000. Servicio Geológico Colombiano, 2 hojas. Bogotá.
-- Veloza, G., Styron, R., Taylor, M., & Mora, A. (2012). Open-source archive of active faults for northwest South America. Gsa Today, 22(10), 4-10.
-- Sandwell, D. T., Harper, H., Tozer, B., & Smith, W. H. (2021). Gravity field recovery from geodetic altimeter missions. Advances in Space Research, 68(2), 1059-1072.
-- Pavlis, N. K., Holmes, S. A., Kenyon, S. C., & Factor, J. K. (2012). The development and evaluation of the Earth Gravitational Model 2008 (EGM2008). Journal of geophysical research: solid earth, 117(B4).
-- Camacho et al. (2014). MAPA DE PROFUNDIDAD A LA ISOTERMA DE CURIE PARA COLOMBIA 1:3250000. Servicio Geológico Colombiano. Bogotá.
-- Tozer, B., Sandwell, D. T., Smith, W. H., Olson, C., Beale, J. R., & Wessel, P. (2019). Global bathymetry and topography at 15 arc sec: SRTM15+. Earth and Space Science, 6(10), 1847-1864.
-- Gómez, J., Montes, N.E., Nivia, A. & Diederix, H., compiladores. 2015. Mapa Geológico de Colombia 2015. Escala 1:1 000 000. Servicio Geológico Colombiano, 2 hojas. Bogotá. https://doi.org/10.32685/10.143.2015.935​
+The full manuscript can be accessed at https://doi.org/10.48550/arXiv.2404.05184. This is not the final version, as we are doing some minor tweaks as per peer review comments. Stay tuned!
