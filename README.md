@@ -4,9 +4,8 @@
 
 1. [About the Project](#about-the-project)
 2. [Methodology](#methodology)
-3. [Getting Started](#getting-started)
-4. [Conclussions](#conclusion)
-5. [Further Improvements](#further-improvements)
+3. [Conclussions](#conclusion)
+4. [Further Improvements](#further-improvements)
 
 # About the Project
 
