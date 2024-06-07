@@ -60,4 +60,4 @@ Feel free to contribute to the project and help us improve geothermal exploratio
 
 ## Full manuscript: 
 
-The full manuscript can be accessed at https://doi.org/10.48550/arXiv.2404.05184. This is not the final version, as we are doing some minor tweaks as per peer review comments. Stay tuned!
+The full manuscript can be accessed at https://doi.org/10.1016/j.geothermics.2024.103074
